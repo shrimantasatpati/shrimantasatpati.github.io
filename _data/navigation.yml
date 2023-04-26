@@ -1,0 +1,29 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Contact"
+    url: /contact/
+  - title: "Mentorship"
+    url: /mentorship/
+  - title: "Certifications"
+    url: /certifications/
+  - title: "ML Videos"
+    url: /mlvideos/
+  - title: "Talks"
+    url: /talks/
+#   - title: "Google Actions"
+#     url: /assistantactions/
+#   - title: "External Link"
+#     url: https://google.com
+
+#- title: "Contact"
+  #  url: /contact/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+  # - title: "Portfolio"
+  #  url: /portfolio/
