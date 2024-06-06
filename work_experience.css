@@ -1,0 +1,23 @@
+/* Work Experience Section */
+.work-experience {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.work-card {
+    width: 32%;
+    margin-bottom: 20px;
+}
+
+@media (max-width: 768px) {
+    .work-card {
+        width: 48%;
+    }
+}
+
+@media (max-width: 480px) {
+    .work-card {
+        width: 100%;
+    }
+}
