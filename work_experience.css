@@ -21,3 +21,28 @@
         width: 100%;
     }
 }
+
+.work-experience-button {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    width: 100%;
+}
+
+.work-experience-button .button_project {
+    display: inline-block;
+    background: #6161e7;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 23px 41px;
+    border-radius: 6px;
+    border: 1px solid #6161e7;
+    transition: all 0.3s ease;
+    text-decoration: none;
+}
+
+.work-experience-button .button_project:hover {
+    color: #6161e7;
+    background: none;
+}
